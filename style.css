@@ -35,6 +35,9 @@
     background-color: rgba(34, 34, 34, 0.9);
     padding: 15px 160px;
     transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    margin-bottom: 240px;
 }
 
 .header__nav-list {
