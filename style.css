@@ -32,7 +32,6 @@
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-color: rgba(34, 34, 34, 0.9);
     padding: 15px 160px;
     transition: all 0.3s ease;
     display: flex;
